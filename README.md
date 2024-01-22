@@ -1,2 +1,2 @@
-# Myapp
-example
+# myapp
+ A Sample Maven WebApp Project
